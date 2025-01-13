@@ -1,4 +1,7 @@
-## Hi there 👋
+muslim american
+programmer, sound engineer, 2D / 3D visual artist
+
+code: `GLSL, C#, Java, Python, Lua, GDScript`
 
 <!--
 **spiro-angelakis/spiro-angelakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
