@@ -1,10 +1,10 @@
-muslim american
+Muslim American
 
 engineering: software, audio/visual
 
 code: `GLSL, C#, Java, Python, Lua, GDScript`
 
-contact: e-mail on profile
+contact: spiros.angelaki@gmail.com
 <!--
 **spiro-angelakis/spiro-angelakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
